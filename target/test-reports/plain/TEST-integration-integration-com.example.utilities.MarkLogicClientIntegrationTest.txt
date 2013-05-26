@@ -1,5 +1,0 @@
-Testsuite: com.example.utilities.MarkLogicClientIntegrationTest
-Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 1.176 sec
-
-Testcase: shouldGetJsonDocument took 1.134 sec
-Testcase: shouldGetXmlDocument took 0.019 sec
