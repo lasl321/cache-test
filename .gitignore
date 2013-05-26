@@ -4,4 +4,5 @@
 .idea/gradle.xml
 build/
 out/
+target/
 
