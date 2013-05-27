@@ -47,8 +47,6 @@ grails.project.dependency.resolution = {
         compile('com.marklogic:client-api-java:1.0-3') {
             excludes 'logback-classic'
         }
-
-        compile 'com.google.code.gson:gson:2.2.4'
     }
 
     plugins {

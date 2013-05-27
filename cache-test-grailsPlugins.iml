@@ -66,7 +66,6 @@
           <root url="jar://$USER_HOME$/.grails/ivy-cache/com.sun.jersey/jersey-client/jars/jersey-client-1.13.jar!/" />
           <root url="jar://$USER_HOME$/.grails/ivy-cache/com.marklogic/client-api-java/jars/client-api-java-1.0-3.jar!/" />
           <root url="jar://$USER_HOME$/.grails/ivy-cache/ch.qos.logback/logback-core/jars/logback-core-1.0.6.jar!/" />
-          <root url="jar://$USER_HOME$/.grails/ivy-cache/com.google.code.gson/gson/jars/gson-2.2.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
