@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Utilities/Utilities.iml" filepath="$PROJECT_DIR$/Utilities/Utilities.iml" />
       <module fileurl="file://$PROJECT_DIR$/cache-test.iml" filepath="$PROJECT_DIR$/cache-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/cache-test-grailsPlugins.iml" filepath="$PROJECT_DIR$/cache-test-grailsPlugins.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../marklogic-spike/marklogic-spike.iml" filepath="$PROJECT_DIR$/../marklogic-spike/marklogic-spike.iml" />
     </modules>
   </component>
 </project>

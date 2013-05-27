@@ -4,7 +4,6 @@ import com.marklogic.client.DatabaseClient
 import com.marklogic.client.document.JSONDocumentManager
 import com.marklogic.client.document.XMLDocumentManager
 import com.marklogic.client.io.DOMHandle
-import com.marklogic.client.io.JAXBHandle
 import com.marklogic.client.io.StringHandle
 import org.apache.commons.logging.Log
 import org.apache.commons.logging.LogFactory
