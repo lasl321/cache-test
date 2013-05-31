@@ -1,4 +1,4 @@
-import com.example.utilities.dataaccess.MarkLogicClientFactory
+import com.example.dataaccess.MarkLogicClientFactory
 
 beans = {
     markLogicClientFactory(MarkLogicClientFactory) {

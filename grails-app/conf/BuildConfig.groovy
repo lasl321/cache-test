@@ -41,12 +41,15 @@ grails.project.dependency.resolution = {
     }
 
     dependencies {
+        compile('com.example:marklogic-data-access:1.0') {
+            excludes 'commons-logging', 'log4j', 'logback-classic'
+        }
         // specify dependencies here under either 'build', 'compile', 'runtime', 'test' or 'provided' scopes e.g.
 
         // runtime 'mysql:mysql-connector-java:5.1.22'
-        compile('com.marklogic:client-api-java:1.0-3') {
-            excludes 'logback-classic'
-        }
+//        compile('com.marklogic:client-api-java:1.0-3') {
+//            excludes 'logback-classic'
+//        }
     }
 
     plugins {

@@ -82,6 +82,7 @@ log4j = {
     debug 'com.example'
     debug 'grails.app.controllers.com.example'
     debug 'grails.app.services.com.example'
+    error 'grails.app.filters.com.example.logging'
 
     error 'org.codehaus.groovy.grails.web.servlet',        // controllers
             'org.codehaus.groovy.grails.web.pages',          // GSP

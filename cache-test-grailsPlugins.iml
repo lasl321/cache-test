@@ -59,13 +59,13 @@
           <root url="jar://$USER_HOME$/.grails/ivy-cache/commons-codec/commons-codec/jars/commons-codec-1.6.jar!/" />
           <root url="jar://$USER_HOME$/.grails/ivy-cache/org.jvnet/mimepull/jars/mimepull-1.6.jar!/" />
           <root url="jar://$USER_HOME$/.grails/ivy-cache/com.sun.jersey.contribs/jersey-multipart/jars/jersey-multipart-1.13.jar!/" />
-          <root url="jar://$USER_HOME$/.grails/ivy-cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar!/" />
           <root url="jar://$USER_HOME$/.grails/ivy-cache/org.apache.httpcomponents/httpcore/jars/httpcore-4.1.jar!/" />
           <root url="jar://$USER_HOME$/.grails/ivy-cache/org.apache.httpcomponents/httpclient/jars/httpclient-4.1.1.jar!/" />
           <root url="jar://$USER_HOME$/.grails/ivy-cache/com.sun.jersey.contribs/jersey-apache-client4/jars/jersey-apache-client4-1.13.jar!/" />
           <root url="jar://$USER_HOME$/.grails/ivy-cache/com.sun.jersey/jersey-client/jars/jersey-client-1.13.jar!/" />
           <root url="jar://$USER_HOME$/.grails/ivy-cache/com.marklogic/client-api-java/jars/client-api-java-1.0-3.jar!/" />
           <root url="jar://$USER_HOME$/.grails/ivy-cache/org.eclipse.jdt.core.compiler/ecj/jars/ecj-3.7.2.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/com.example/marklogic-data-access/jars/marklogic-data-access-1.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
