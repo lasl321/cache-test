@@ -46,10 +46,7 @@ grails.project.dependency.resolution = {
         }
         // specify dependencies here under either 'build', 'compile', 'runtime', 'test' or 'provided' scopes e.g.
 
-        // runtime 'mysql:mysql-connector-java:5.1.22'
-//        compile('com.marklogic:client-api-java:1.0-3') {
-//            excludes 'logback-classic'
-//        }
+        compile 'com.google.code.simple-spring-memcached:spymemcached-provider:3.1.0'
     }
 
     plugins {
@@ -66,6 +63,6 @@ grails.project.dependency.resolution = {
 
         runtime ":database-migration:1.3.2"
 
-        compile ':cache:1.0.1'
+        //compile ':cache:1.0.1'
     }
 }

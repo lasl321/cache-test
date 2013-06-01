@@ -1,8 +1,6 @@
 package com.example
 
 import com.example.dataaccess.DataService
-import grails.plugin.cache.CacheEvict
-import grails.plugin.cache.Cacheable
 import groovy.xml.XmlUtil
 import org.w3c.dom.Document
 

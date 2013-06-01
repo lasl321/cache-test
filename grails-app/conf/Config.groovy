@@ -83,6 +83,7 @@ log4j = {
     debug 'grails.app.controllers.com.example'
     debug 'grails.app.services.com.example'
     error 'grails.app.filters.com.example.logging'
+    info 'net.spy.memcached'
 
     error 'org.codehaus.groovy.grails.web.servlet',        // controllers
             'org.codehaus.groovy.grails.web.pages',          // GSP

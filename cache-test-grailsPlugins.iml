@@ -18,12 +18,6 @@
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$USER_HOME$/.grails/2.2.2/projects/cache-test/plugins/cache-1.0.1">
-      <sourceFolder url="file://$USER_HOME$/.grails/2.2.2/projects/cache-test/plugins/cache-1.0.1/src/java" isTestSource="false" />
-      <sourceFolder url="file://$USER_HOME$/.grails/2.2.2/projects/cache-test/plugins/cache-1.0.1/src/groovy" isTestSource="false" />
-      <sourceFolder url="file://$USER_HOME$/.grails/2.2.2/projects/cache-test/plugins/cache-1.0.1/grails-app/services" isTestSource="false" />
-      <sourceFolder url="file://$USER_HOME$/.grails/2.2.2/projects/cache-test/plugins/cache-1.0.1/grails-app/taglib" isTestSource="false" />
-    </content>
     <content url="file://$USER_HOME$/.grails/2.2.2/projects/cache-test/plugins/database-migration-1.3.2">
       <sourceFolder url="file://$USER_HOME$/.grails/2.2.2/projects/cache-test/plugins/database-migration-1.3.2/src/groovy" isTestSource="false" />
       <sourceFolder url="file://$USER_HOME$/.grails/2.2.2/projects/cache-test/plugins/database-migration-1.3.2/grails-app/controllers" isTestSource="false" />
@@ -44,9 +38,6 @@
       <sourceFolder url="file://$USER_HOME$/.grails/2.2.2/projects/cache-test/plugins/resources-1.1.6/grails-app/taglib" isTestSource="false" />
     </content>
     <content url="file://$USER_HOME$/.grails/2.2.2/projects/cache-test/plugins/tomcat-2.2.2" />
-    <content url="file://$USER_HOME$/.grails/2.2.2/projects/cache-test/plugins/webxml-1.4.1">
-      <sourceFolder url="file://$USER_HOME$/.grails/2.2.2/projects/cache-test/plugins/webxml-1.4.1/src/groovy" isTestSource="false" />
-    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="grails-2.2.2" level="application" />
@@ -66,6 +57,14 @@
           <root url="jar://$USER_HOME$/.grails/ivy-cache/com.marklogic/client-api-java/jars/client-api-java-1.0-3.jar!/" />
           <root url="jar://$USER_HOME$/.grails/ivy-cache/org.eclipse.jdt.core.compiler/ecj/jars/ecj-3.7.2.jar!/" />
           <root url="jar://$USER_HOME$/.grails/ivy-cache/com.example/marklogic-data-access/jars/marklogic-data-access-1.0.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.codehaus.jackson/jackson-core-asl/jars/jackson-core-asl-1.9.10.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.codehaus.jackson/jackson-mapper-asl/jars/jackson-mapper-asl-1.9.10.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.aspectj/aspectjweaver/jars/aspectjweaver-1.6.8.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.aspectj/aspectjrt/jars/aspectjrt-1.6.8.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/com.google.code.simple-spring-memcached/simple-spring-memcached/jars/simple-spring-memcached-3.1.0.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/com.google.code.simple-spring-memcached/spymemcached/jars/spymemcached-2.8.4.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/com.google.code.simple-spring-memcached/spymemcached-provider/jars/spymemcached-provider-3.1.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
